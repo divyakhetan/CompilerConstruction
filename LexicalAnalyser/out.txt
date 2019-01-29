@@ -1,0 +1,8 @@
+<keyword#7> <predefinedFunction#0> <specialSymbol#2> <specialSymbol#3> 
+<specialSymbol#8> 
+<keyword#5> <variable#0> <specialSymbol#5> 
+<variable#0> <operator#5> <constant#0> <specialSymbol#5> 
+<keyword#5> <variable#1> <operator#5> <constant#1> <specialSymbol#5> 
+<error#0> <operator#5> <variable#1> <operator#2> <constant#2> <specialSymbol#5> 
+<predefinedFunction#1> <specialSymbol#2> <specialSymbol#0> <stringLiteral#>0><specialSymbol#0> <specialSymbol#4> <variable#0> <specialSymbol#3> <specialSymbol#5> 
+<specialSymbol#9> 
