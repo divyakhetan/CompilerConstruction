@@ -1,4 +1,5 @@
 import re
+import time
 f = open('input.txt', "r")
 
 macroopened = False
@@ -10,6 +11,7 @@ macroname = ""
 
 lines = f.readlines()
 
+t1 = time.time()
 for lineno in range(0, len(lines)):
 	line = lines[lineno].lower()
 	x = re.split(r'[,\s]+', line)
@@ -65,6 +67,7 @@ for lineno in range(0, len(lines)):
 
 # for j in range(0, len(mnt)):
 # 	print(mnt[j]["name"])
+t2 = time.time()
 print()
 print("The Macro Name Table is ")
 print(mnt)
@@ -74,3 +77,5 @@ print(mdt)
 print()
 print("The ALA is ")
 print(ala)
+print()
+print("Total time taken is " + str(t2 - t1))
