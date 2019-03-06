@@ -1,0 +1,3 @@
+MacroNameTable = [{'name': 'incr', 'MOT index': 0}, {'name': 'incr1', 'MOT index': 4}]
+MacroDataTable = [{'index': 0, 'line': 'hello incr &a, &b'}, {'index': 1, 'line': 'a 1 , #1 '}, {'index': 2, 'line': 'l 2 , #2 '}, {'index': 3, 'line': 'mend'}, {'index': 4, 'line': 'incr1 &arg1, &arg2'}, {'index': 5, 'line': 'l 3 , #1 '}, {'index': 6, 'line': 'st 4 , #2 '}, {'index': 7, 'line': 'mend'}]
+AlaTable = {'incr': ['hello', '&a', '&b'], 'incr1': [None, '&arg1', '&arg2']}
