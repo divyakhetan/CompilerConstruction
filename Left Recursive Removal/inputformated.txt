@@ -1,0 +1,4 @@
+A->Ab|Ac|Az|cz|e
+S->Sc|f
+E->(A)|d
+G->A|c

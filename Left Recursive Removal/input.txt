@@ -1,3 +1,4 @@
-A->Ab|Ac|S
-S->Sc|E
-E ->(A)|d
+A->Ab|Ac|Gz|e
+S->Sc|f
+E->(A)|d
+G->A|c
